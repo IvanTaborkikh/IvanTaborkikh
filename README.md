@@ -1,9 +1,8 @@
-# IvanTaborskikh
+# Ivan Taborskнkh a.k.a. PADADAK
 
 **`Software Engineer`**
 
-Hi, I'm Ivan.
-
+Hi, I'm Ivan. I'm an ambitious student on my way to becoming a Software Engineer. I'm always open to new opportunities and collaboration.
 
 ### Languages and Tools
 
