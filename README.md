@@ -1,4 +1,4 @@
-# Ivan Taborskнkh a.k.a. PADADAK
+# Ivan Taborskykh a.k.a. PADADAK
 
 **`Software Engineer`**
 
@@ -20,6 +20,12 @@ Hi, I'm Ivan. I'm an ambitious student on my way to becoming a Software Engineer
 ![Unity](https://img.shields.io/badge/Unity-%232C2C2C?style=for-the-badge&logo=unity&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white)
 
+---
 
-#
+### 🚀 Featured Repositories
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [**🎓 University-Projects**](https://github.com/IvanTaborkikh/University-Projects) | A collection of my university projects and labs. Includes implementations of **Distributed Systems (RMI/TCP)**, and **Multi-threading**. | `Java` `Maven` `RMI` |
+| [**⏱️ TimerWebSite**](https://github.com/IvanTaborkikh/TimerWebSite) | A web-based timer application designed for time management with a clean UI. | `HTML` `CSS` `JS` |
 
