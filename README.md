@@ -1,12 +1,13 @@
 # Ivan Taborskykh a.k.a. PADADAK
 
-**`Software Engineer`**
+**`Software Developer`**
 
-Hi, I'm Ivan. I'm an ambitious student on my way to becoming a Software Engineer. I'm always open to new opportunities and collaboration.
+Hi, I'm Ivan. I'm an ambitious student on my way to becoming a Software Developer. I'm always open to new opportunities and collaboration.
 
 ### Languages and Tools
 
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
