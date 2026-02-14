@@ -4,7 +4,7 @@
 
 Hi, I'm Ivan. I'm an ambitious student on my way to becoming a Software Developer. I'm always open to new opportunities and collaboration.
 
-### Languages
+### Languages and Tools
 
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
