@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-Hi, I'm Ivan. I'm an ambitious student on my way to becoming a Software Developer. I'm always open to new opportunities and collaboration.
+Hi, I'm Ivan. I'm an ambitious student on my way to becoming a Software Develope. I'm always open to new opportunities and collaboration.
 
 ### Languages and Tools
 
